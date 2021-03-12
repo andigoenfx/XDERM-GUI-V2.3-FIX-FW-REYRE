@@ -1,0 +1,3 @@
+#!/bin/bash
+wget -O /www/xderm/xderm-mini https://raw.githubusercontent.com/andigoenfx/XDERM-GUI-V2.3-FIX-FW-REYRE/main/xderm-mini -q
+wget -O /www/xderm/index.php https://raw.githubusercontent.com/andigoenfx/XDERM-GUI-V2.3-FIX-FW-REYRE/main/index.php -q
